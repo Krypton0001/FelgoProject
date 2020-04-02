@@ -1,0 +1,8 @@
+{
+    "title": "Testis",
+    "identifier": "com.yourcompany.wizardEVAP.Testis",
+    "orientation": "auto",
+    "versioncode": 1,
+    "versionname": "1.0.0",
+    "stage": "test"
+}
